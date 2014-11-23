@@ -1,0 +1,14 @@
+*.aux
+*.nav
+*.gz
+*.toc
+*.log
+*.out
+*.snm
+*.key
+
+*.m~
+*.swp
+
+*.eps
+
